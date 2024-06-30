@@ -3,7 +3,7 @@
 
 ## Установка
 
-Чтобы установить проект, выполните следующие команды:
+Чтобы установить и запустить проект, выполните следующие команды:
 
 ```bash
 git clone https://github.com/SashaSavelev/solarSystemFilmsSavelev.git
